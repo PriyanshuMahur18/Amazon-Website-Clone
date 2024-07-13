@@ -39,8 +39,6 @@
     .add-first{
         color: #cccccc;
         font-size: 0.85rem;
-       
-       
     }
     .add-second{
 
