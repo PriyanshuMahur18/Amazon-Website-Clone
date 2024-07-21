@@ -71,6 +71,7 @@
         border: none;
         /* border-radius: 5px; */
     }
+
     span{
         font-size: 0.7rem;
     }
